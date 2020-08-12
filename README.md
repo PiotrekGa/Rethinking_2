@@ -22,3 +22,4 @@ to install all the dependencies into an isolated environment.
 Activate the environment by running:
 
     source activate stat-rethink2-pymc3
+
